@@ -1,5 +1,5 @@
-  - DOMAIN-REGEX,^(.+\.)*clients([1-6]|l)\.google\.com$
-  - DOMAIN,accounts.google.com
-  - DOMAIN,ogs.google.com
-  - DOMAIN,play.google.com
-  - DOMAIN-KEYWORD,www.google.
+- URL-REGEX,^https?:\/\/([^.]+\.)*clients([1-6]|\.l)\.google\.com
+- DOMAIN,accounts.google.com
+- DOMAIN,ogs.google.com
+- DOMAIN,play.google.com
+- DOMAIN-KEYWORD,www.google.
