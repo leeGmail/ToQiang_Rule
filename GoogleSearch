@@ -1,0 +1,7 @@
+payload:
+  - DOMAIN-REGEX,^(.+\.)*clients([1-6]|l)\.google\.com$
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN,accounts.google.com
+  - DOMAIN,ogs.google.com
+  - DOMAIN,play.google.com
+  - DOMAIN-KEYWORD,www.google.
