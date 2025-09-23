@@ -1,4 +1,10 @@
-- URL-REGEX,^https?:\/\/([^.]+\.)*clients([1-6]|\.l)\.google\.com
+- DOMAIN-SUFFIX,clients1.google.com
+- DOMAIN-SUFFIX,clients2.google.com
+- DOMAIN-SUFFIX,clients3.google.com
+- DOMAIN-SUFFIX,clients4.google.com
+- DOMAIN-SUFFIX,clients5.google.com
+- DOMAIN-SUFFIX,clients6.google.com
+- DOMAIN-SUFFIX,clients.l.google.com
 - DOMAIN,accounts.google.com
 - DOMAIN,ogs.google.com
 - DOMAIN,play.google.com
